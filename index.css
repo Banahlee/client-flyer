@@ -1,0 +1,82 @@
+*{
+    list-style: none;
+    text-transform: capitalize;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.header{
+    margin: 3rem;
+    text-align: center;
+}
+
+.header h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+}
+
+.header h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.classes li h2{
+    color: rgb(89, 89, 255);
+    text-align: center;
+    font-size: 2.3rem;
+    
+}
+
+.classes li p{
+    text-align: center;
+    font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.classes li h4{
+    text-align: center;
+}
+
+.sidebar{
+    background-color: rgb(248, 148, 60);
+}
+
+.event-item{
+    margin-top: 2.5rem;
+}
+
+.event-item h2{
+    font-size: 1.5rem;
+}
+
+.event-item h3{
+    font-size: 1.2rem;
+}
+
+
+.title{
+    text-align: center;
+}
+
+.social-div{
+    
+   
+}
+
+.social-links{
+    text-transform: lowercase;
+}
+
+.image-div img{
+    width: 17.5rem;
+    height: 15rem;
+}
+
+.sponsor-div img{
+    width: 10rem;
+    height: 8rem;
+}
+
+.title2{
+    font-style: italic;
+}
